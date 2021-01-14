@@ -12,3 +12,7 @@
 
 
 # Now (MUST KNOW WELL- 빨간색,NEED TO KNOW - 파란색,STRETCHED - 초록색)
+
+![nowp1](https://user-images.githubusercontent.com/67775336/104565605-d479db80-568f-11eb-91a8-c63940813e4a.png)
+![nowp2](https://user-images.githubusercontent.com/67775336/104565627-df347080-568f-11eb-8da8-afbad36295af.png)
+![nowp3](https://user-images.githubusercontent.com/67775336/104565643-e6f41500-568f-11eb-9aea-7c973d00d928.png)
